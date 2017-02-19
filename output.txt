@@ -1,0 +1,106 @@
+Přehled knih a výpůjček
+=======================
+
+The Pragmatic Programmer
+Autor: Andrew Hunt
+Výpůjčky:
+   Vojtech Kohout(2012-04-01)
+   Jane Roe(2012-05-06)
+
+-----
+
+The Art of Computer Programming
+Autor: Donald Knuth
+Výpůjčky:
+
+-----
+
+Refactoring: Improving the Design of Existing Code
+Autor: Martin Fowler
+Výpůjčky:
+   Vojtech Kohout(2013-01-02)
+
+-----
+
+Introduction to Algorithms
+Autor: Thomas H. Cormen
+Výpůjčky:
+   Jane Roe(2012-03-06)
+   Jane Roe(2012-05-06)
+
+-----
+
+UML Distilled
+Autor: Martin Fowler
+Výpůjčky:
+
+-----
+
+Autorství a recenzenství
+========================
+
+Andrew Hunt
+Je autorem:
+   The Pragmatic Programmer
+Recenzoval:
+   The Art of Computer Programming
+
+-----
+
+Donald Knuth
+Je autorem:
+   The Art of Computer Programming
+Recenzoval:
+
+-----
+
+Martin Fowler
+Je autorem:
+   Refactoring: Improving the Design of Existing Code
+   UML Distilled
+Recenzoval:
+
+-----
+
+Kent Beck
+Je autorem:
+Recenzoval:
+   Refactoring: Improving the Design of Existing Code
+
+-----
+
+Thomas H. Cormen
+Je autorem:
+   Introduction to Algorithms
+Recenzoval:
+
+-----
+
+Tagy, které souvisí s autory
+============================
+
+Andrew Hunt
+   popular
+   ebook
+
+-----
+
+Donald Knuth
+
+-----
+
+Martin Fowler
+   ebook
+
+-----
+
+Kent Beck
+   ebook
+
+-----
+
+Thomas H. Cormen
+   popular
+
+-----
+
