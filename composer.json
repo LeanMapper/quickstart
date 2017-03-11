@@ -9,5 +9,8 @@
 	},
 	"autoload": {
 		"classmap": ["app/"]
+	},
+	"require-dev": {
+		"nette/tester": "^1.7"
 	}
 }
