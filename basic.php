@@ -43,7 +43,7 @@ superscribe('Tagy, které souvisí s autory');
 
 foreach ($authors as $author) {
 	write($author->name);
-	foreach ($author->getReferencingTags() as $tag) {
+	foreach ($author->referencingTags as $tag) {
 		write($tag->name, 3);
 	}
 	separate();
