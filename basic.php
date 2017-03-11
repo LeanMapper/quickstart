@@ -5,8 +5,8 @@ use Model\Repository\AuthorRepository;
 
 require_once __DIR__ . '/app/bootstrap.php';
 
-$bookRepository = new BookRepository($connection);
-$authorRepository = new AuthorRepository($connection);
+$bookRepository = new BookRepository($connection, $mapper, $entityFactory);
+$authorRepository = new AuthorRepository($connection, $mapper, $entityFactory);
 
 $books = $bookRepository->findAll();
 

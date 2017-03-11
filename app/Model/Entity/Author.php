@@ -14,7 +14,7 @@ class Author extends Person
 	{
 		$tags = array();
 		foreach (array(null, 'reviewer_id') as $viaColumn) {
-			foreach ($this->row->referencing('book', null, $viaColumn) as $book) {
+			foreach ($this->row->referencing('book', $viaColumn) as $book) {
 				foreach ($book->referencing('book_tag') as $tagRelation) {
 					$row = $tagRelation->referenced('tag');
 					$tags[$tagRelation->tag_id] = new Tag($row);
