@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=5.4.0",
-		"tharos/leanmapper": "3.1.1"
+		"tharos/leanmapper": "3.2.0"
 	},
 	"autoload": {
 		"classmap": ["app/"]
